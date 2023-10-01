@@ -25,3 +25,5 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <a href = "mailto:carlosdestroy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/carlos-andrade-833012202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![Snake animation](https://github.com/Caduzinhok/Caduzinhok/blob/output/github-contribution-grid-snake.svg)
