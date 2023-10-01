@@ -1,4 +1,4 @@
-## Olá Forasteiro, eu sou o Carlos Andrade, um apaixonado pelo mundo da programação e tecnologia!
+## Olá Forasteiro, eu sou o Carlos Andrade, um apaixonado pelo mundo da programação e tecnologia :rocket:
 
 <div>
   <img height=180em src="https://github-readme-stats.vercel.app/api?username=Caduzinhok&show_icons=true&theme=dracula"/> 
