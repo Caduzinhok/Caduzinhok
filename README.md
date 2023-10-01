@@ -24,4 +24,4 @@
   
 </div>
 
-![Snake animation](https://github.com/Caduzinhok/Caduzinhok/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Caduzinhok/Caduzinhok/blob/output/github-contribution-grid-snake.svg)
