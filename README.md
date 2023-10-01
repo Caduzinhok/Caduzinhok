@@ -24,4 +24,3 @@
 </div>
 
 ![Snake animation](https://github.com/Caduzinhok/Caduzinhok/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Caduzinhok&repo=artur-debv&theme=dracula)](https://github.com/Caduzinhok/Caduzinhok)
