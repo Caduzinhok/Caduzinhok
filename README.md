@@ -1,8 +1,5 @@
 ## Olá Forasteiro, eu sou o Carlos Andrade, um apaixonado pelo mundo da programação e tecnologia!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
-
 <div>
   <img height=180em src="https://github-readme-stats.vercel.app/api?username=Caduzinhok&show_icons=true&theme=dracula"/> 
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caduzinhok&layout=compact&theme=dracula" /> 
