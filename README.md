@@ -1,5 +1,5 @@
 ## Olá Forasteiro, eu sou o Carlos Andrade, um apaixonado pelo mundo da programação e tecnologia :rocket:
-
+<p>Sou um jovem sempre em busca de novos desafios e conhecimentos. Meu objetivo é criar soluções inovadoras que não apenas impactem a vida das pessoas, mas também tragam utilidade e progresso ao mundo. Com uma mente curiosa e um coração dedicado, acredito que a tecnologia pode ser uma poderosa ferramenta para melhorar a sociedade, promovendo avanços que beneficiem a todos. Quero transformar minhas ideias em realidade, sempre com o propósito de fazer a diferença e contribuir para um futuro melhor.</p>
 <div>
   <img height=180em src="https://github-readme-stats.vercel.app/api?username=Caduzinhok&show_icons=true&theme=dracula"/> 
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caduzinhok&layout=compact&theme=dracula" /> 
