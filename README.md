@@ -1,5 +1,6 @@
 ## Olá Forasteiro, eu sou o Carlos Andrade, um apaixonado pelo mundo da programação e tecnologia :rocket:
 <p>Sou um jovem sempre em busca de novos desafios e conhecimentos. Meu objetivo é criar soluções inovadoras que não apenas impactem a vida das pessoas, mas também tragam utilidade e progresso ao mundo. Com uma mente curiosa e um coração dedicado, acredito que a tecnologia pode ser uma poderosa ferramenta para melhorar a sociedade, promovendo avanços que beneficiem a todos. Quero transformar minhas ideias em realidade, sempre com o propósito de fazer a diferença e contribuir para um futuro melhor.</p>
+
 <div>
   <img height=180em src="https://github-readme-stats.vercel.app/api?username=Caduzinhok&show_icons=true&theme=dracula"/> 
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caduzinhok&layout=compact&theme=dracula" /> 
@@ -15,12 +16,11 @@
   <img align="center" alt="Carlos-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
 
-  ##
- 
+<p>Caso queira me conhecer um pouco mais, entre em contato comigo em minhas redes sociais</p>
 <div> 
   <a href="https://instagram.com/carlosdestroy1"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:carlosdestroy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-andrade-833012202"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
+##
